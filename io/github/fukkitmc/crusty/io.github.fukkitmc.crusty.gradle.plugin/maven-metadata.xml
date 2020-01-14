@@ -3,11 +3,12 @@
   <groupId>io.github.fukkitmc.crusty</groupId>
   <artifactId>io.github.fukkitmc.crusty.gradle.plugin</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20200114110052</lastUpdated>
+    <lastUpdated>20200114115721</lastUpdated>
   </versioning>
 </metadata>
