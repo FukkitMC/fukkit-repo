@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.fukkitmc</groupId>
+  <artifactId>fabric-loom</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200120063505</lastUpdated>
+  </versioning>
+</metadata>

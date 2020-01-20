@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.github.fukkitmc</groupId>
+  <artifactId>fabric-loom</artifactId>
+  <version>0.2.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200120.063505</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200120063505</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.6-20200120.063505-1</value>
+        <updated>20200120063505</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.6-20200120.063505-1</value>
+        <updated>20200120063505</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
