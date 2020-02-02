@@ -3,7 +3,7 @@
   <groupId>io.github.fukkitmc</groupId>
   <artifactId>crusty</artifactId>
   <versioning>
-    <release>1.1.4</release>
+    <release>1.1.5</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -11,7 +11,8 @@
       <version>1.1.2</version>
       <version>1.1.3</version>
       <version>1.1.4</version>
+      <version>1.1.5</version>
     </versions>
-    <lastUpdated>20200131062748</lastUpdated>
+    <lastUpdated>20200202103933</lastUpdated>
   </versioning>
 </metadata>
