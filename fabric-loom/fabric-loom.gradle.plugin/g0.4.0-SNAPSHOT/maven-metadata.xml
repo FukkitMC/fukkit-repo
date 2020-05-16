@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fabric-loom</groupId>
+  <artifactId>fabric-loom.gradle.plugin</artifactId>
+  <version>g0.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20200516.010915</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20200516010915</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>g0.4.0-20200516.010915-1</value>
+        <updated>20200516010915</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
