@@ -1,0 +1,94 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "xyz.fukkit",
+    "module": "crusty",
+    "version": "2.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "crusty-2.0.0.jar",
+          "url": "crusty-2.0.0.jar",
+          "size": 16062,
+          "sha512": "acf2092c43a25a1f4856dc3010e71b8e2e4905ed4f480fb2191b3dc99c096249ed77b0b472fd0ee4299edd0424d4a993f4b3aa6df6f08cfbce2831e356fdfd06",
+          "sha256": "df9b51b31773686859d1c000d0a94994fff7cf2a580a19fc8e53a94e79e79076",
+          "sha1": "56ab3b53592636cb01598b36ccaf3af8f87c124e",
+          "md5": "8ac6b96240d6106574bdb9da1ac3a48c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 16,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.10"
+          }
+        },
+        {
+          "group": "org.cadixdev",
+          "module": "lorenz",
+          "version": {
+            "requires": "0.5.7"
+          }
+        },
+        {
+          "group": "org.cadixdev",
+          "module": "lorenz-io-proguard",
+          "version": {
+            "requires": "0.5.7"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "lorenz-tiny",
+          "version": {
+            "requires": "3.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "crusty-2.0.0.jar",
+          "url": "crusty-2.0.0.jar",
+          "size": 16062,
+          "sha512": "acf2092c43a25a1f4856dc3010e71b8e2e4905ed4f480fb2191b3dc99c096249ed77b0b472fd0ee4299edd0424d4a993f4b3aa6df6f08cfbce2831e356fdfd06",
+          "sha256": "df9b51b31773686859d1c000d0a94994fff7cf2a580a19fc8e53a94e79e79076",
+          "sha1": "56ab3b53592636cb01598b36ccaf3af8f87c124e",
+          "md5": "8ac6b96240d6106574bdb9da1ac3a48c"
+        }
+      ]
+    }
+  ]
+}
